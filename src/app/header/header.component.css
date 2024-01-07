@@ -1,0 +1,32 @@
+.left-head {
+    padding-left: 10%;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.right-head {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.portrait {
+    background-image: url(../../assets/Isaac3.jpeg);
+    height: 90%;
+    width: 70%;
+    border: 8px, solid, green;
+    border-radius: 50%;
+
+}
+
+.share {
+    display: flex;
+    margin: 0;
+}
+
+h1 {
+    font-size: 6em;
+}

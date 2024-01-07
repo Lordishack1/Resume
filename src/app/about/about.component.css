@@ -1,0 +1,11 @@
+section {
+    text-align: center;
+    display: flex;
+    border-top: 2px solid black;
+}
+
+.about-text {
+    flex: 1;
+    margin-right: 10px;
+    margin-left: 10px;
+}

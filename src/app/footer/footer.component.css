@@ -1,0 +1,11 @@
+.foot {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-top: 2px solid black;
+    background-color: #f44336;
+}
+
+.custom-list {
+    list-style-type: none;
+}
